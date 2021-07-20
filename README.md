@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/39362431/126405126-8afae6de-644e-4253-
 
 ## Technologies utilised:
 - Python 3.7
-- Standard Python Libraries: Pandas, SciKitLearn, Numpy
+- Standard Python Libraries: Pandas, SciKitLearn, Numpy, OpenCV
 - Flask for deployment
 - HTML, CSS, JAVAScript with BootStrapCDN
 
