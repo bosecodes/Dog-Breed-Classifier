@@ -11,3 +11,4 @@ https://user-images.githubusercontent.com/39362431/126405126-8afae6de-644e-4253-
 - Flask for deployment
 - HTML, CSS, JAVAScript with BootStrapCDN
 
+*Here's the dataset I utilised: https://www.kaggle.com/c/dog-breed-identification/data*
